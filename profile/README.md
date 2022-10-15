@@ -21,4 +21,5 @@ You can join one of the following teams :
 * [@switozen-dev/themes](https://github.com/orgs/switozen-dev/teams/themes) - The team for developing the themes.
 * [@switozen-dev/graphists](https://github.com/orgs/switozen-dev/teams/graphists) - The team for creating the brand chart.
 
-**Just ask me on anything, I will add you to one of these teams.**
+**To be added, just contact me on anything you can and... boom ! 😊**
+**Or, just use [GitHub Discussions](https://github.com/switozen-dev/switozen-dev/discussions).**
