@@ -22,4 +22,4 @@ You can join one of the following teams :
 * [@switozen-dev/graphists](https://github.com/orgs/switozen-dev/teams/graphists) - The team for creating the brand chart.
 
 **To be added, just contact me on anything you can and... boom ! 😊**
-**Or, just use [GitHub Discussions](https://github.com/switozen-dev/switozen-dev/discussions).**
+**Or, just use [GitHub Discussions](https://github.com/switozen-dev/switozen/discussions).**
