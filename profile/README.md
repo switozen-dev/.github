@@ -4,7 +4,7 @@ The blade WHMCS.
 ## 🙋‍♀️ What is Switozen ?
 
 Switozen is the home-made WHMCS, 100% free and open-source.
-Based in France, @Micorksen is the founder of the project.
+Based in France, [@Micorksen](https://github.com/micorksen) is the founder of the project.
 
 If you wanna talk to me, just contact me via anything you have !
 * Discord : `Micorksen#2022`
