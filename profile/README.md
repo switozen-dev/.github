@@ -16,8 +16,9 @@ If you wanna talk to me, just contact me via anything you have !
 This project relies on the community, everywhere, everytime.
 You can join one of the following teams :
 * @switozen-dev/core - The team for developing the core of Switozen.
+* @switozen-dev/modules - The team for developing the modules (extensions + themes).
+* @switozen-dev/extensions - The team for developing the extensions.
 * @switozen-dev/themes - The team for developing the themes.
-* @switozen-dev/modules - The team for developing the modules.
 * @switozen-dev/graphists - The team for creating the brand chart.
 
 **Just ask me on anything, I will add you to one of these teams.**
